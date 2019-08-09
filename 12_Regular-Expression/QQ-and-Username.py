@@ -13,7 +13,7 @@ import re
 def main():
     username = input('Username: ')
     qq = input('QQ: ')
-    # re.math(pattern, string)
+    # re.match(pattern, string)
     # 用正则表达式匹配字符串 成功返回匹配对象 否则返回None
     m1 = re.match(r'^[0-9a-zA-Z_]{6,20}$',username)
     """

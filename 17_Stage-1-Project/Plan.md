@@ -22,7 +22,7 @@
 
 ## Image Filter GUI
 
-![](/res/ImageFilterGUI.png)
+![](res/ImageFilterGUI.png)
 
 ## Web-Based Chat Room
 - Server (CMD)

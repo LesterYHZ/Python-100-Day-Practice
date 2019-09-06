@@ -11,3 +11,7 @@ Inspired by [Python - 100天从新手到大师 ](https://github.com/jackfrued/Py
   6. Multi-Thread
   7. Image
   8. Basic Web
+
+### Stage 2
+  1. Scientific Computing
+  

@@ -15,4 +15,4 @@ Inspired by [Python - 100天从新手到大师 ](https://github.com/jackfrued/Py
 ### Stage 2
   1. Scientific Computing
   2. Simple Calculator UI Project
-  
+  3. [Mario Bro Project (In Progress)](https://github.com/LesterYHZ/Super-Mario-Bro-Python-Project.git)
